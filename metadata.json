@@ -1,0 +1,6 @@
+{
+  "name": "PromptForge",
+  "description": "AI-powered prompt engineering agent that transforms messy prompts into high-performance, structured AI instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
